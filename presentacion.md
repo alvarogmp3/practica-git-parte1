@@ -6,3 +6,6 @@ y me apasiona el mundo de la informática.
 ## Hobbies
 - Estudiar hardware (variado)
 - Skate
+
+## Película favorita
+Fast & Furious
